@@ -1,0 +1,16 @@
+{
+  "importStrategy": "SKIP",
+  "jarImportStrategy": "OVERRIDE",
+  "moduleClass": "ca.bc.okanagan.ok_ap1_accounting_ie.ap.AccountingInfoExtractionModule",
+  "input": {
+    "variables": {
+      "requester": "demo.robot.tom@gmail.com",
+      "company": "GOODMAN HICHENS PLC",
+      "docs_filter": {
+        "filling_type": "AA",
+        "type": "Full accounts",
+        "period": "2020;2016"
+      }
+    }
+  }
+}
