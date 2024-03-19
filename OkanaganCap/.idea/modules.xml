@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OkanaganCap.iml" filepath="$PROJECT_DIR$/OkanaganCap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ok-ap1-accounting-ie/ok-ap1-accounting-ie.iml" filepath="$PROJECT_DIR$/ok-ap1-accounting-ie/ok-ap1-accounting-ie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ok-uk-company-info-service/ok-uk-company-info-service.iml" filepath="$PROJECT_DIR$/ok-uk-company-info-service/ok-uk-company-info-service.iml" />
+    </modules>
+  </component>
+</project>
